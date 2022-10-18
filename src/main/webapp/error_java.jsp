@@ -15,6 +15,5 @@
 <h2>Details</h2>
 <p>Type: ${pageContext.exception["class"]}</p>
 <p>Message: ${pageContext.exception.message}</p>
-
-</body>
+<a href="https://wepr-g6-site.herokuapp.com/assignments.jsp" class="home-button">Về trang chủ</a></body>
 </html>
